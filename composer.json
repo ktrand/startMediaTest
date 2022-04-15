@@ -3,7 +3,7 @@
     "description": "test assignment",
     "autoload": {
         "psr-4": {
-            "Khurshed\\Startmedia\\": "App/"
+            "App\\": "App/"
         }
     },
     "authors": [
