@@ -1,0 +1,16 @@
+{
+    "name": "khurshed/startmedia",
+    "description": "test assignment",
+    "autoload": {
+        "psr-4": {
+            "Khurshed\\Startmedia\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khurshed Dadojonov",
+            "email": "khtrand@gmail.com"
+        }
+    ],
+    "require": {}
+}
